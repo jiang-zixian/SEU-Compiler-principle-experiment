@@ -1,0 +1,25 @@
+“jzx”
+#define GOOD 2000
+// This is the c test file
+int y=t/5;
+int main(){
+int x ;
+bool change=FALSE;
+x = x + 5 ;
+}
+/*
+    Multi line Comment
+*/
+
+// Single line Comment
+for(int i = 0, i <= 4; i++){
+    x += i;
+}
+    x++;
+string str="jzx"
+for(const auto& op : opers)
+      if (op == str)
+           return true;
+
+54dsa
+_sda = "gdsdg";
